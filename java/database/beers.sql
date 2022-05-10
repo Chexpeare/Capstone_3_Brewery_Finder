@@ -270,12 +270,12 @@ VALUES ('Cashmere Hoodie',
 
 -- 6. Cape May Brewery
 INSERT INTO beers (name, abv, ibu, type, info, img_url, is_active, brewery_id)
-VALUES ('Cap May IPA',
+VALUES ('Cape May IPA',
         6.3,
         63,
         'India Pale Ale',
         'The American IPA named for America’s Oldest Seaside Resort, Cape May IPA is loaded with floral and citrus notes, well-balanced with a zesty finish. A West Coast-style IPA brewed in the heart of the East Coast, it’s the beer that’s Crafted on the Cape.',
-        'https://www.capemaybrewery.com/wp-content/uploads/2012/04/cape-may-brewing-ipa.jpg',
+        'https://d15pvfqusxo50w.cloudfront.net/images/drink-can/cape-may-ipa.png',
         true,
         6);
 
@@ -285,7 +285,7 @@ VALUES ('Cape May White',
         11,
         'Wheat Ale',
         'Cape May White is brewed with orange and lemon peels, coriander, grains of paradise, and our favorite Belgian Witbier yeast. Fruity esters up-front with an easy-drinking finish yields a traditional Belgian-Style Wheat Ale brewed in the heart of the East Coast.',
-        'https://www.capemaybrewery.com/wp-content/uploads/2020/02/Cape-May-White.png',
+        'https://d15pvfqusxo50w.cloudfront.net/images/drink-can/cape-may-white.png',
         true,
         6);
 
@@ -295,7 +295,7 @@ VALUES ('Devil`s Reach',
         25,
         'Belgian Ale',
         'A Belgian beast, fruity and light, the complexity and character of Devil’s Reach come from a robust Belgian yeast. Deceptively simple, caution is demanded because, before you know it, Devil’s Reach has swallowed you whole.',
-        'https://www.capemaybrewery.com/wp-content/uploads/2013/05/cape-may-brewing-devils-reach-belgian-1.jpg',
+        'https://d15pvfqusxo50w.cloudfront.net/images/drink-can/_AUTOx700_crop_center-center_none/devils-reach.png',
         true,
         6);
 
